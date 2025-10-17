@@ -1,6 +1,6 @@
 ### Overview
 
-![流程图](./images/overview.pdf)
+![overview](./images/overview.png)
 This repository contains the implementation and example projects for the paper **Retrieval-Augmented PLC Code Generation with Static-Analysis Feedback**. It targets Siemens TIA Portal and focuses on automatic generation and evaluation of SCL (Structured Control Language) programs. The system retrieves relevant examples, builds prompts, calls a large language model to generate SCL code, and offers optional automation/testing scripts to reproduce results.
 
 ### Repository Structure
